@@ -1,4 +1,4 @@
-## Word Cloud
+# Word Cloud
 
 A word cloud is a visualization technique that represents the frequency or importance of words in a text document. It displays words in different sizes, with larger sizes indicating higher 
 frequency or importance. Word clouds are often used to provide a quick visual summary of the most prominent words in a text.
