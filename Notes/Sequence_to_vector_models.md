@@ -1,0 +1,1 @@
+- Sequence to vector models can be used for predicting the movie reviews as a probabability of good and bad.
